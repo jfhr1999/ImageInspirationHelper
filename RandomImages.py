@@ -5,9 +5,6 @@ from PIL import Image, ImageTk
 from random import choice
 import subprocess
 
-#para hacer build, se abre terminal en vscode y se llama al siguiente codigo
-#py -m PyInstaller -F C:\Users\josef\OneDrive\Desktop\RandomImages.py
-
 
 class App:
     path = ""
